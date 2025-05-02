@@ -5,5 +5,5 @@ I'm Janus Jaguar, & in this ReadME.md I tell you about myself - or something?
 I am the "[YouTuber](https://www.youtube.com/@janusjaguar)" 'Janus Jaguar'  
 - I make mostly Gaming videos, my niche is Tutorials for [Command & Conquer General's Zero Hour Modding Tutorials](https://youtube.com/playlist?list=PL8VFnihHyemFo_uZOaCJY0igMiuT5LmSX&si=2Symc8N1VD3FGlVR).
   - *[Modding Manual](https://docs.google.com/document/d/1eMQT91pVi2VFMRVJJGCKC81i86yuQ61XsfZwKGfuhu8/edit?usp=drive_link) *[Join The Discord!](https://discord.gg/yfATmXJaxT)
-- My secondary niche is DMing the Podcast - [Rolling Solo - A Party of Two](https://www.youtube.com/playlist?list=PL8VFnihHyemE1mvaZdd_XYi6FatRbmZoM)
+- My secondary niche is DMing the Podcast - [Rolling Solo - A Party of Two](https://www.youtube.com/playlist?list=PL8VFnihHyemE1mvaZdd_XYi6FatRbmZoM) (D&D5e)
   - Where we prove you don't need a full table to begin
